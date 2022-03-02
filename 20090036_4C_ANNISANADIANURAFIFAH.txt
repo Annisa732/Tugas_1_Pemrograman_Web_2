@@ -1,0 +1,7 @@
+#!/bin/bash
+
+<?php
+echo <br>"Nama = Annisa Nadia Nur Afifah"<br/>;
+echo <br>"NIM = 20090036"<br/>;
+echo <br>"Kelas = 4C"<br/>;
+?>
